@@ -1,3 +1,8 @@
+
+<img src="./img/yew_logo.png">
+
+<img src="./img/rust_wasm.jpg" width="400px">
+
 # yew의 getting started 연습 프로젝트
 
 
